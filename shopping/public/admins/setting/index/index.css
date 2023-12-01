@@ -1,0 +1,17 @@
+.dropdown-menu > li > a {
+        display: block;
+        padding: 3px 20px;
+        clear: both;
+        font-weight: normal;
+        line-height: 20px;
+        color: #333333;
+        white-space: nowrap;
+}
+.dropdown-menu a:focus, .dropdown-menu a:hover {
+    color: #16181b;
+    text-decoration: none;
+    background-color: #00ffff;
+}
+.float-right {
+    padding-right: 100px;
+}
